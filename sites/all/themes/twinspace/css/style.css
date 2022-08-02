@@ -19,7 +19,7 @@ body {
 div.siteinfo img {
   height: 35px;
 	margin-left: 120px;
-  margin-top: -4px;
+  margin-top: 7px;
 }
 
 h1 {
@@ -67,16 +67,16 @@ form {
 /* Primary Links styling */
 
 header[role="banner"] {
-	background-color: transparent;
-	border-bottom: medium none;
-	height: 50px;
-	margin-top: -30px;
+  background-color: transparent;
+  border-bottom: medium none;
+  height: 67px;
+  margin-top: -30px;
 }
 
 header[role="banner"] nav ul {
-	background-color: black;
-	margin-top: 13px;
-	padding: 6px;
+  background-color: black;
+  margin-top: 25px;
+  padding: 8px;
 }
 
 div.header-region a {
