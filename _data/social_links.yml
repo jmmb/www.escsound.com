@@ -1,0 +1,41 @@
+- name: Twitter
+  url: https://twitter.com/escs0und
+  img:
+    path: assets/img/Twitter_logo_blue.png
+    height: 50
+    width: 60
+
+- name: Facebook
+  url: https://www.facebook.com/escs0und
+  img:
+    path: assets/img/FB-f-Logo__blue_512.png
+    height: 50
+    width: 50
+
+- name: YouTube
+  url: https://www.youtube.com/channel/UCBdea_OJKFsDvqdCUT5tzbQ
+  img:
+    path: assets/img/YouTube_light_color_icon.png
+    height: 50
+    width: 71
+
+- name: SoundCloud
+  url: https://soundcloud.com/escs0und
+  img:
+    path: assets/img/soundcloud_icon_512.png
+    height: 50
+    width: 50
+
+- name: Instagram
+  url: https://www.instagram.com/escs0und
+  img:
+    path: assets/img/Instagram_AppIcon_Aug2017.png
+    height: 50
+    width: 50
+
+- name: Tumblr
+  url: https://escs0und.tumblr.com
+  img:
+    path: assets/img/Tumblr_Logo_Blue.png
+    height: 50
+    width: 50

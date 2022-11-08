@@ -1,0 +1,34 @@
+url: "https://www.escsound.com"
+baseurl: ""
+title: E/S\C
+description: + + + The E/S\C Website Experience + + +
+keywords: >
+  Jim Bjorklun,e/s\c,Electronic Music,Electronica,IDM,intelligent dance music,
+  electronic listening music,braindance,techno,jungle,Minnesota,Twin Cities music
+gtag_id: "UA-161395311-1"
+
+collections:
+  shows_in_future:
+    output: true
+  shows_in_past:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "shows_in_future"
+    values:
+      layout: "event"
+      permalink: shows/:title:output_ext
+  - scope:
+      path: ""
+      type: "shows_in_past"
+    values:
+      layout: "event"
+      permalink: shows/:title:output_ext
+
+sass:
+  style: compressed
+
+exclude:
+  - README.md

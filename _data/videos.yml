@@ -1,0 +1,11 @@
+- title: Hypnosis
+  iframe: |
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0UZVk4SJhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- title: Jungle A
+  iframe: |
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/N0Ug8o55wOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- title: On The Earth
+  iframe: |
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hH8kOSjHDeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
