@@ -26,4 +26,4 @@ emotions and experience. The focus is on looking within to find counsel and
 insight while navigating through life.
 
 ## Contact
-Booking / Inquiries: info @ escsound.com
+Booking | Inquiries: info @ escsound.com
