@@ -19,17 +19,17 @@
     height: 40
     width: 57
 
-- name: SoundCloud
-  url: https://soundcloud.com/escs0und
-  img:
-    path: assets/img/soundcloud_icon_512.png
-    height: 40
-    width: 40
-
 - name: Instagram
   url: https://www.instagram.com/escs0und
   img:
     path: assets/img/Instagram_AppIcon_Aug2017.png
+    height: 40
+    width: 40
+
+- name: SoundCloud
+  url: https://soundcloud.com/escs0und
+  img:
+    path: assets/img/soundcloud_icon_512.png
     height: 40
     width: 40
 
