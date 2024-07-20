@@ -39,3 +39,10 @@
     path: assets/img/Tumblr_Logo_Blue.png
     height: 40
     width: 40
+
+- name: Bandcamp
+  url: http://escs0und.bandcamp.com
+  img:
+    path: assets/img/bandcamp-button-bc-circle-green-512.png
+    height: 40
+    width: 40
