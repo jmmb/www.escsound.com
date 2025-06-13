@@ -32,3 +32,7 @@ div.siteinfo img {
 #home_video p {
 	color: #fff;
 }
+
+#home_video > iframe {
+  max-width: 90vw;
+}
